@@ -533,4 +533,4 @@ Thanks for your love in advance! ☀️
 
 <a href="https://discord.gg/VC7CrYfds5" target="_blank"><img src="https://discordapp.com/api/guilds/801943105913225246/widget.png?style=banner3" alt="ObsidiaNext Community Discord Server"></a>
 
-2
+5
