@@ -24,17 +24,11 @@
         <span class="gradient-text">
             <%= config.author || config.title %>
         </span>.
-
-        <% if (false) { %>
-        
-        <!-- Powered by <%- link_to("http://hexo.io/", "Hexo", {external: true})%>
+        Powered by <%- link_to("http://hexo.io/", "Hexo", {external: true})%>
         Theme
         <span class="gradient-text">
             <%- link_to("https://github.com/TriDiamond/hexo-theme-obsidian", "Obsidian", {external: true})%>
-        </span> -->
-
-        <% } %>
-        
+        </span>
         <small><%- link_to("https://github.com/TriDiamond/hexo-theme-obsidian/blob/master/CHANGELOG.md", 'v'+theme.version, {external: true})%></small>
         <% if (theme.beian.enable == true) { %>
         </br>
