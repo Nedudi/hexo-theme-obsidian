@@ -496,3 +496,4 @@ hexo clean && hexo g
 - [创建新 issue!](https://github.com/TriDiamond/hexo-theme-obsidian/issues/new)
 - 加入 QQ 群 `909955326`
 - [加入 Telegram 群](https://t.me/joinchat/R2m4eho2lbcHLR7nDvxd6A)
+j
